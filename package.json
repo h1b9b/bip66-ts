@@ -1,6 +1,6 @@
 {
   "name": "bip66-ts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Strict DER signature encoding/decoding.",
   "main": "dist/index.js",
   "scripts": {
