@@ -1,0 +1,33 @@
+{
+  "name": "bip66-ts",
+  "version": "0.0.0",
+  "description": "Strict DER signature encoding/decoding.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h1b9b/bip66-ts.git"
+  },
+  "keywords": [
+    "bip66",
+    "bitcoin"
+  ],
+  "author": "h1b9b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h1b9b/bip66-ts/issues"
+  },
+  "homepage": "https://github.com/h1b9b/bip66-ts#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.19",
+    "@typescript-eslint/eslint-plugin": "^4.11.0",
+    "@typescript-eslint/parser": "^4.11.0",
+    "eslint": "^7.16.0",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4",
+    "typescript": "^4.1.3"
+  }
+}
